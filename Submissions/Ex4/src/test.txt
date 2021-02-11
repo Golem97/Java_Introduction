@@ -1,0 +1,6 @@
+Papa Smurf,Hefty Smurf,Grouchy Smurf
+Grouchy Smurf,Jokey Smurf,Vanity Smurf
+Jokey Smurf,Greedy Smurf,Handy Smurf
+Hefty Smurf,Brainy Smurf,Painter Smurf
+Handy Smurf,Farmer Smurf
+Brainy Smurf,Snappy Smurfling,Slouchy Smurfling
